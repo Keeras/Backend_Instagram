@@ -11,6 +11,5 @@ Sign UP
 Post
 
 
-## API Documentation
-List out your main APIs and its sample input and output!
+
 
